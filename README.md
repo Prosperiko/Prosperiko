@@ -31,12 +31,12 @@ Here are some ideas to get you started:
   </a>
 </section>
 
-<p>Backend engineer. Geomatics Engineering undergrad at University of Benin. I build server-side systems, data pipelines, and AI workflows in Python. Everything I ship lives at <a href="https://ossaiku.me">ossaiku.me</a>.</p>
+<p>Backend software engineer. I build server-side systems, data pipelines, and AI workflows in Python. Some projects I shipped lives at <a href="https://ossaiku.me">ossaiku.me</a>.</p>
 
 ## Stack
 
 <a href="https://github.com/prosperiko">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,sqlite,git,linux,pandas,numpy&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,sqlite,git,linux,pandas,html,css,javascript,numpy&perline=10" />
 </a>
 
 ## Selected work
