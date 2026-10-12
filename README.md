@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## Stack
 
 <a href="https://github.com/prosperiko">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,sqlite,git,linux,pandas,html,css,javascript,numpy&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,django,fastapi,flask,postgres,sqlite,git,linux,pandas,numpy&perline=10" />
 </a>
 
 ## Selected work
